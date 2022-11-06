@@ -14,13 +14,13 @@ class Clothes {
           "Hoodie",
           "\$79.90",
           "assets/images/arrival1.png",
-          ["assets/images/arrival1.png", "asset/images/detail2.png"]),
+          ["assets/images/arrival1.png", "assets/images/detail2.png"]),
       Clothes(
           "Man Coat",
           "Rain Jacket",
           "\$39.90",
           "assets/images/arrival2.png",
-          ["assets/images/arrival2.png", "asset/images/detail3.png"]),
+          ["assets/images/arrival2.png", "assets/images/detail3.png"]),
     ];
   }
 }
